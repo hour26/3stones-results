@@ -1,0 +1,161 @@
+{
+  "round": 1043957,
+  "start": "2026-11-02T06:10:00.000Z",
+  "end": "2026-11-02T06:20:00.000Z",
+  "roundRoot": "e42227599ce1d3fa283edae52cb974b6e202277f0e0922af0cf0965ef2ec31d9",
+  "questions": [
+    {
+      "id": "q-1043957-DE",
+      "level": "country",
+      "scope": "DE",
+      "text": "Should cannabis be legal for adults?",
+      "lang": "en",
+      "tally": {
+        "yes": 0,
+        "no": 0,
+        "total": 0
+      },
+      "unattested": 0,
+      "breakdowns": {
+        "ageBand": [],
+        "gender": []
+      },
+      "questionRoot": null
+    },
+    {
+      "id": "q-1043957-africa",
+      "level": "continent",
+      "scope": "africa",
+      "text": "Should official documents avoid gender-neutral language?",
+      "lang": "en",
+      "tally": {
+        "yes": 0,
+        "no": 0,
+        "total": 0
+      },
+      "unattested": 0,
+      "breakdowns": {
+        "ageBand": [],
+        "gender": [],
+        "country": []
+      },
+      "questionRoot": null
+    },
+    {
+      "id": "q-1043957-americas",
+      "level": "continent",
+      "scope": "americas",
+      "text": "Should there be a mandatory year of community or military service?",
+      "lang": "en",
+      "tally": {
+        "yes": 0,
+        "no": 0,
+        "total": 0
+      },
+      "unattested": 0,
+      "breakdowns": {
+        "ageBand": [],
+        "gender": [],
+        "country": []
+      },
+      "questionRoot": null
+    },
+    {
+      "id": "q-1043957-asia",
+      "level": "continent",
+      "scope": "asia",
+      "text": "Should nuclear power be expanded?",
+      "lang": "en",
+      "tally": {
+        "yes": 0,
+        "no": 0,
+        "total": 0
+      },
+      "unattested": 0,
+      "breakdowns": {
+        "ageBand": [],
+        "gender": [],
+        "country": []
+      },
+      "questionRoot": null
+    },
+    {
+      "id": "q-1043957-europe",
+      "level": "continent",
+      "scope": "europe",
+      "text": "Should official documents avoid gender-neutral language?",
+      "lang": "en",
+      "tally": {
+        "yes": 0,
+        "no": 0,
+        "total": 0
+      },
+      "unattested": 0,
+      "breakdowns": {
+        "ageBand": [],
+        "gender": [],
+        "country": []
+      },
+      "questionRoot": null
+    },
+    {
+      "id": "q-1043957-oceania",
+      "level": "continent",
+      "scope": "oceania",
+      "text": "Should voting be mandatory here?",
+      "lang": "en",
+      "tally": {
+        "yes": 0,
+        "no": 0,
+        "total": 0
+      },
+      "unattested": 0,
+      "breakdowns": {
+        "ageBand": [],
+        "gender": [],
+        "country": []
+      },
+      "questionRoot": null
+    },
+    {
+      "id": "q-1043957-world",
+      "level": "world",
+      "scope": "world",
+      "text": "Should very large fortunes be taxed more?",
+      "lang": "en",
+      "tally": {
+        "yes": 1,
+        "no": 0,
+        "total": 1
+      },
+      "unattested": 1,
+      "breakdowns": {
+        "ageBand": [
+          {
+            "group": "other",
+            "yes": 1,
+            "no": 0,
+            "total": 1
+          }
+        ],
+        "gender": [
+          {
+            "group": "other",
+            "yes": 1,
+            "no": 0,
+            "total": 1
+          }
+        ],
+        "country": [
+          {
+            "group": "other",
+            "yes": 1,
+            "no": 0,
+            "total": 1
+          }
+        ]
+      },
+      "questionRoot": "e42227599ce1d3fa283edae52cb974b6e202277f0e0922af0cf0965ef2ec31d9"
+    }
+  ]
+}
